@@ -17,6 +17,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		A9143F631B5549900006B188 /* OriginalSpringyDemo.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = OriginalSpringyDemo.mp4; sourceTree = "<group>"; };
 		A9CE7CBB1B546BFE000F6C69 /* SpringyCollectionView.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SpringyCollectionView.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		A9CE7CBF1B546BFE000F6C69 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		A9CE7CC11B546BFE000F6C69 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
@@ -45,6 +46,7 @@
 		A9CE7CB21B546BFE000F6C69 = {
 			isa = PBXGroup;
 			children = (
+				A9143F631B5549900006B188 /* OriginalSpringyDemo.mp4 */,
 				A9CE7CBD1B546BFE000F6C69 /* SpringyCollectionView */,
 				A9CE7CBC1B546BFE000F6C69 /* Products */,
 			);
